@@ -1,0 +1,8 @@
+{
+    "require": {
+        "paypal/paypalhttp": "^1.0",
+        "paypal/paypal-checkout-sdk": "^1.0",
+        "paypal/rest-api-sdk-php": "^1.14",
+        "symfony/mailer": "^5.2"
+    }
+}
