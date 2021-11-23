@@ -1,31 +1,32 @@
-# AWESOME PRODUCT VOTING
+# Awesome Paypal Form
 
-_Plugins of WordPress to create a list of product to see whats it's the product or item with more votes_
+Contributors: Alberto Mengelle | https://github.com/Korinho
+Tags: paypal, form, landing page
+Requires at least: 5.7
+Tested up to: 5.4
+Stable tag: 4.3
+Requires PHP: 7.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-## Starting 🚀
+We created a lean form which calculates the cost of a legal consultation based on time and complexity, so the buyer gets a more accessible price and can easily pay via paypal.
 
-_Update in yout site of WORDPRESS in tne plugins section_
+== Description ==
 
+As we did start a colaboration with a lawyer in Spain the idea of a simple landing page with a low and accessible price for a consultation came up. Instead of combining two or three plugins we opted for the option to created a unified one ourselves. This plugin here has been the first Version. Unfortunately this project has later on not been released so we are more than happy to get back on track in the future and see it live in action. 
 
-### Pre-requeriments 📋
+== Screenshots ==
 
-_PHP 5.7 to 7.2_
+1. The planned front end from our screendesign
 
+== Changelog ==
 
-### Instalation 🔧
+= 0.1 =
+I would say we are still not fully done, only minor details are missing.
 
-_Decompressing the zip file in your plugins folder \_
+== Feature Overview ==
 
-_go to your admin desktop in the section plugins and activate the plugin awesome product voting_
-
-_in your admin view, you can see in the menu the section awesome voting this is your plugin activated_
-## Buil with 🛠️
-
-
-* [PHP](http://www.php.net/) - Language
-* [Bootstrap](https://getbootstrap.com//) - FrontEnd
-
-## Autors ✒️
-
-* **Alberto Mengelle** - [Github](https://github.com/Korinho) - [Twitter](https://twitter.com/B_mengelle/)
-
+* Caluclate the price per time frame (how fast does the client want an answer)
+* Caluclate the price based on complexity (how detailed and profound shall the answer for the client be) 
+* Limit the amount of characters a user has to describe their legal issue or concern
+* Have the user directly pay via paypal
